@@ -1,17 +1,17 @@
 {
     "name": "Video Player",
     "slug": "video-player-plugin-mrizwan-2024",
-    "version": "1.0.10",
+    "version": "1.0.11",
     "author": "Muhammad Rizwan",
     "homepage": "https://www.facebook.com/rizwantaunsvi",
-    "download_url": "https://drive.google.com/uc?export=download&id=12jjAdMRdf8aW3ikkctinIDC1peTWs9Um",
+    "download_url": "https://drive.google.com/uc?export=download&id=1HrR9CP9-YvDknIiH-B1ReRFevSERpSZk",
     "requires": "5.0",
     "tested": "5.8",
     "requires_php": "7.0",
     "sections": {
         "description": "A video player plugin with update notifications and proxy settings.",
         "changelog": {
-            "1.0.10": [
+            "1.0.11": [
                 "Fixed bugs.",
                 "Added new features."
             ],
