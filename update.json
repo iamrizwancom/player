@@ -11,7 +11,7 @@
     "sections": {
         "description": "A video player plugin with update notifications and proxy settings.",
         "changelog": {
-            "1.0.14": [
+            "1.0.16": [
                 "Fixed bugs.",
                 "Yandex PLayer Source Added",
                 "New Player Fileds Added",
